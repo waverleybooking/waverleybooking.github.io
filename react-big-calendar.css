@@ -54,7 +54,6 @@
   letter-spacing: normal;
   text-align: left;
   color: #0f0d9b;
-  padding: 2px;
 }
 
 .event-wrapper-icon {
@@ -267,7 +266,7 @@ button.rbc-input::-moz-focus-inner {
   margin-left: 10px;
 }
 .rbc-event {
-  background-color: #70e5fa;
+  background-color: rgba(112, 229, 250, 0.5);
   color: #0f0d9b;
   font-weight: 700;
 }
